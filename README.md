@@ -1,1 +1,1 @@
-# plant-care-assistant
+# Smart Plant Care Assistant 
